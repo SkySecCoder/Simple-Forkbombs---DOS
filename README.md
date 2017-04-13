@@ -3,7 +3,7 @@ Forkbombs
 
 - SimpleLinuxForkBomb.sh
 - SimpleLinuxForkBombInDepth.sh
-
+- SimpleWindowsForkBomb.bat
 
 
 
