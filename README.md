@@ -1,11 +1,14 @@
 # Simple-Forkbombs---DOS
 Forkbombs
 
+A fork bomb is basically a denial of service attack where a process continuously runs itself in regression in order to utilise available resources. They usualy cause crashing and slowing down of the system being attacked.
+
 - SimpleLinuxForkBomb.sh
 - SimpleLinuxForkBombInDepth.sh
 - PythonBomb.py
 - WindowsSimpleBomb.bat 
 - WindowsPersistentBomb.bat
+- SimpleCppForkBomb.cpp
 
 
 
